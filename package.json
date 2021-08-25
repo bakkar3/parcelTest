@@ -1,0 +1,27 @@
+{
+  "name": "Exercise-431-SPA-MOD-buildWebsiteWithParcel",
+  "version": "1.0.0",
+  "description": "**Create a website with the following features:** * allow the user to enter a date in the future, e.g. `2021-12-31` (December 31, 2021) and when they click on a button, show the number of days that date is in the future, e.g. `100 days`",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-D01/Exercise-431-SPA-MOD-buildWebsiteWithParcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-D01/Exercise-431-SPA-MOD-buildWebsiteWithParcel/issues"
+  },
+  "homepage": "https://github.com/FbW-D01/Exercise-431-SPA-MOD-buildWebsiteWithParcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.38.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

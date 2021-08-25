@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+body div {
+  background-color: #aadbaa;
+  width: 600px;
+  height: 600px;
+  margin: 40px auto;
+  padding: 40px;
+}
+body label {
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  color: chocolate;
+}
+body p {
+  font-size: 35px;
+  color: brown;
+}
+body #momentInput {
+  width: 120px;
+  height: 30px;
+  border-radius: 4px;
+  color: #9335eb;
+  font-size: 22px;
+}
+body #momentBtn {
+  border-radius: 4px;
+  width: 100px;
+  height: 40px;
+  color: #9335eb;
+  font-size: 22px;
+}
+
+/*# sourceMappingURL=/main.77bb5cfd.css.map */
