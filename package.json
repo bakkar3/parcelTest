@@ -4,7 +4,9 @@
   "description": "**Create a website with the following features:** * allow the user to enter a date in the future, e.g. `2021-12-31` (December 31, 2021) and when they click on a button, show the number of days that date is in the future, e.g. `100 days`",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+
   },
   "repository": {
     "type": "git",
